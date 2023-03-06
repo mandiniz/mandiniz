@@ -15,63 +15,120 @@
   <h4 align="center">
     <div>My name is Ricardo Mandini, I'm a CEO & Founder of digital products 🐝 with 5+ years of experience. I'm on the mission to inspire and groom people everywhere so that they can improve their lives, raise the bar, and contribute back to society🪄</div>
     
-  </h4>
-</section>
-<section>
-  <h2>🏀 My hobbies...</h2>
-  <div>...are diverse - I enjoy making digital products 🖥️, producing music 🎵, and spending time outdoors with my family and friends 🌳. But above all else, what truly ignites my passion is creating! 💻🤓. 
+  </h4> 
+  <hr/>
+  
+  <details>
+  <summary><b>:basketball: &nbsp;My hobbies:</b></summary>
+  <br/>  
+  
+- ...are diverse - I enjoy making digital products 🖥️, producing music 🎵, and spending time outdoors with my family and friends 🌳. But above all else, what truly ignites my passion is creating! 💻🤓. 
     
-<br>There's just something magical about bringing an idea to life and watching it come to fruition. 💡✨ Whether I'm designing a website 🌐, coding a new app 📱, or even just writing a story ✍️, I love the feeling of creating something from scratch.</br>
+- There's just something magical about bringing an idea to life and watching it come to fruition. 💡✨ Whether I'm designing a website 🌐, coding a new app 📱, or even just writing a story ✍️, I love the feeling of creating something from scratch.</br>
 
-Sure, my other hobbies are fun and enjoyable in their own right, but there's just something about the creative process that sets my soul on fire. 🔥 Whether I'm working on a personal project or something for work, I pour my heart and soul into every single creation.
+- Sure, my other hobbies are fun and enjoyable in their own right, but there's just something about the creative process that sets my soul on fire. 🔥 Whether I'm working on a personal project or something for work, I pour my heart and soul into every single creation.
 
-In the end, it's the act of creating that brings me the most joy and fulfillment, and I wouldn't have it any other way 💚</div>
-  
-</section>
-<section>
-  <h2>👨🏻‍💻 Currently...</h2>
-  <div>...I'm working at <a href="https://github.com/Dogtorapp" target="_blank" rel="noreferrer noopener">@dogtorapp</a> as <b>CEO & Founder </b> in the Madrid Tech Hub!</div>
+- In the end, it's the act of creating that brings me the most joy and fulfillment, and I wouldn't have it any other way 💚</div>
+
+  <br/>
+
+</details>
     
-</section>
-<section>
-  <h2>🌱 My latest projects...</h2>
+  <details>
+  <summary><b>:construction: &nbsp;Currently:</b></summary>
+  <br/>
   
-</section>
-<section>
-  <h2>🔭 Latest releases I've contributed to...</h2>
-  
-</section>
-<section>
-  <h2>⭐ Recent Stars...</h2>
+- I'm working at <a href="https://github.com/Dogtorapp" target="_blank" rel="noreferrer noopener">@dogtorapp</a> as <b>CEO & Founder </b> in the Madrid Tech Hub!</div>
+
+  <br/>
+
+</details>
+
+  <details>
+  <summary><b>:seedling: &nbsp;My latest projects:</b></summary>
+  <br/>
+
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:telescope: &nbsp;Latest releases I've contributed to:</b></summary>
+  <br/>
 
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 
-</section>
-<section>
-  <h2>📰 Recent Blog Posts...</h2>
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:star: &nbsp;Recent Stars:</b></summary>
+  <br/>
+
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+
+  <br/>
+
+</details>
+  
+<details>
+  <summary><b>:newspaper: &nbsp;Recent Blog Posts:</b></summary>
+  <br/>
 
 - [Hello World](https://maximousblk.me/posts/hello-world)
 
-</section>
-<section>
-  <h2>📫 How to reach me:</h2>
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:thought_balloon: &nbsp;You can also ask me a question on:</b></summary>
+  <br/>
+
+  - My [Public AMA](https://github.com/orgs/DogtorDev/discussions)
+
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:mailbox: &nbsp;How to reach me:</b></summary>
+  <br/>
 
 - Website: [dogtorapp.com/mandini](https://dogtorapp.com/mandini)
 - Email: [mandini@dogtorapp.com](mailto:mandini@dogtorapp.com)
 - Twitter: [@mandiniCEO](https://twitter.com/mandiniCEO)
 
-</section>
-<section>
-  <h2>💬 You can also ask me a question on...</h2>
-  
-  - My [Public AMA](https://github.com/orgs/DogtorDev/discussions)
+  <br/>
 
-</section>
-<section>
-  <h2>🔑 My PGP Public Key:...</h2>
-  
+</details>
+
+</details>
+
+<details>
+  <summary><b>:key: &nbsp;My PGP Public Key:</b></summary>
+  <br/>
+
  - [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
-  
+
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
+<hr/>
+
 <h2></h2>  
 <h1> <div align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>

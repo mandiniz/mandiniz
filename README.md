@@ -129,7 +129,6 @@
 
 <hr/>
 
-<h2></h2>  
 <h1> <div align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
   

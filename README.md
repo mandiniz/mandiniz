@@ -91,7 +91,7 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
 <br/><br/><br/><br/><br/><br/>
 
 <div align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
 </div>
  
   <div>&nbsp;</div>

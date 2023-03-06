@@ -65,7 +65,7 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
 <section>
   <h2>💬 You can also ask me a question on...</h2>
   
-  - My [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
+  - My [Public AMA](https://github.com/orgs/DogtorDev/discussions)
 
 </section>
 <section>

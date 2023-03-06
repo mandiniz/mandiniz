@@ -77,19 +77,32 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
   <div>&nbsp;</div>
   <div>&nbsp;</div>
 
-  <h1 align="center"><a href="https://www.buymeacoffee.com/mandini"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </h1>
-  
   <div align="center">
-      <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
-         <img height="18px" src="./images/linkedin.png"/>
-     </a>
-     <a href="https://twitter.com/mandiniCEO" target="_blank" rel="noreferrer noopener">
-         <img height="18px" src="./images/twitter.png"/>
-     </a>
-     <a href="https://www.instagram.com/mvndini" target="_blank" rel="noreferrer noopener">
-         <img height="18px" src="./images/instagram.png"/>
-     </a>
-     <a href="https://es-la.facebook.com/mvndini" target="_blank" rel="noreferrer noopener">
-         <img height="18px" src="./images/facebook.png"/>
-     </a>
-  </div>
+  <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/mandini">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+  </a>
+</div>
+  
+<div align="center">
+  <h2></h2>
+  <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
+    <img height="18px" src="./images/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/mandiniCEO" target="_blank" rel="noreferrer noopener">
+    <img height="18px" src="./images/twitter.png"/>
+  </a>
+  <a href="https://www.instagram.com/mvndini" target="_blank" rel="noreferrer noopener">
+    <img height="18px" src="./images/instagram.png"/>
+  </a>
+  <a href="https://es-la.facebook.com/mvndini" target="_blank" rel="noreferrer noopener">
+    <img height="18px" src="./images/facebook.png"/>
+  </a>
+</div>
+
+

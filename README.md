@@ -73,10 +73,10 @@
 </details>
   
 <details>
-  <summary><b>:newspaper: &nbsp;Recent Blog Posts:</b></summary>
+  <summary><b>:newspaper: &nbsp;Recent Work:</b></summary>
   <br/>
 
-- [Hello World](https://maximousblk.me/posts/hello-world)
+- [Mandini Official Website](https://mandini.net)
 
   <br/>
 
@@ -117,7 +117,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics:</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />

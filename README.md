@@ -20,15 +20,16 @@
 <section>
   <h2>My hobbies...</h2>
   <div>...are making digital products, produce music or going outside with friends, but the thing that I love the most is <b>Creating</b> 💻 🤓</div>
+  
   <h2>Currently...</h2>
   <div>...I'm working at <a href="https://github.com/Glovo" target="_blank" rel="noreferrer noopener">@dogtorapp</a> as <b>CEO & Founder </b> in the Madrid Tech Hub!</div>
+  
   <div>&nbsp;</div>
   <div>&nbsp;</div>
   <div>&nbsp;</div>
 
-
-  <h1 />
-
+  <h1 align="center"><a href="https://www.buymeacoffee.com/empeje"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </h1>
+  
   <div align="center">
       <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/linkedin.png"/>

@@ -30,7 +30,7 @@
   <h1 />
 
   <div align="center">
-      <a href="https://ar.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
+      <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/linkedin.png"/>
      </a>
      <a href="https://twitter.com/mandiniCEO" target="_blank" rel="noreferrer noopener">

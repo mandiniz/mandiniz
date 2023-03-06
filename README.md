@@ -30,16 +30,16 @@
   <h1 />
 
   <div align="center">
-      <a href="https://ar.linkedin.com/in/atidele" target="_blank" rel="noreferrer noopener">
+      <a href="https://ar.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/linkedin.png"/>
      </a>
-     <a href="https://twitter.com/aletidele5" target="_blank" rel="noreferrer noopener">
+     <a href="https://twitter.com/mandiniCEO" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/twitter.png"/>
      </a>
-     <a href="https://www.instagram.com/atidele" target="_blank" rel="noreferrer noopener">
+     <a href="https://www.instagram.com/mvndini" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/instagram.png"/>
      </a>
-     <a href="https://es-la.facebook.com/aletidele5" target="_blank" rel="noreferrer noopener">
+     <a href="https://es-la.facebook.com/mvndini" target="_blank" rel="noreferrer noopener">
          <img height="18px" src="./images/facebook.png"/>
      </a>
   </div>

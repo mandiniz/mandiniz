@@ -73,8 +73,12 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
   
  - [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
   
- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2></h2>  
+<h1> <div align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
+  
+<div>&nbsp;</div>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -90,8 +94,11 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+  
 <div align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
  
   <div>&nbsp;</div>
@@ -109,6 +116,8 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
   </a>
 </div>
   
+<div>&nbsp;</div>
+  
 <div align="center">
   <h2></h2>
   <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
@@ -124,5 +133,3 @@ In the end, it's the act of creating that brings me the most joy and fulfillment
     <img height="18px" src="./images/facebook.png"/>
   </a>
 </div>
-
-

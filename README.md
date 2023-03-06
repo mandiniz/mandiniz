@@ -28,7 +28,7 @@
   <div>&nbsp;</div>
   <div>&nbsp;</div>
 
-  <h1 align="center"><a href="https://www.buymeacoffee.com/empeje"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </h1>
+  <h1 align="center"><a href="https://www.buymeacoffee.com/mandini"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=📖&slug=empeje&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </h1>
   
   <div align="center">
       <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">

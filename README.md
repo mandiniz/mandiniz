@@ -188,3 +188,11 @@
     <img height="18px" src="./images/facebook.png"/>
   </a>
 </div>
+  
+  <br/>
+
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
+<img src="https://github.com/mandiniz/mandiniz/blob/main/images/github-mark-white.png" style="width: 24px; height: 24px;" width="24" height="24"/>
+  </a>
+</p>

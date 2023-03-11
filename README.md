@@ -16,8 +16,13 @@
     <div>My name is Ricardo Mandini, I'm a CEO & Founder of digital products 🐝 with 5+ years of experience. I'm on the mission to inspire and groom people everywhere so that they can improve their lives, raise the bar, and contribute back to society🪄</div>
     
   </h4> 
+  
+<br/>
+
   <hr/>
   
+<br/>
+
   <details>
   <summary><b>:basketball: &nbsp;My hobbies:</b></summary>
   <br/>  
@@ -146,11 +151,10 @@
 <p></p>
 </details>
 
-<hr/>
+<details>
+  <summary><b>:working_man: &nbsp;Repositories:</b></summary>
+  <br/>
 
-<h1> <div align="center">👨‍💻 Repositories 👨‍💻</h1>
-<br>
-  
 <div>&nbsp;</div>
 
 <div width="100%" align="center">
@@ -174,8 +178,15 @@
 <div align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
+
+  <br/>
+
+</details>
+
+<br/>
+
+<hr/>
  
-  <div>&nbsp;</div>
   <div>&nbsp;</div>
 
   <div align="center">
@@ -190,10 +201,9 @@
   </a>
 </div>
   
-<div>&nbsp;</div>
-  
+<br/>
+
 <div align="center">
-  <h2></h2>
   <a href="https://www.linkedin.com/in/mandini" target="_blank" rel="noreferrer noopener">
     <img height="18px" src="./images/linkedin.png"/>
   </a>
@@ -206,12 +216,15 @@
   <a href="https://es-la.facebook.com/mvndini" target="_blank" rel="noreferrer noopener">
     <img height="18px" src="./images/facebook.png"/>
   </a>
+    </a>
+  <a href="https://github.com/mandiniz/" target="_blank" rel="noreferrer noopener">
+    <img height="18px" src="./images/github-mark-white.png"/>
+  </a>
 </div>
   
   <br/>
 
   <p align="center">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://github.com/mandiniz/mandiniz/blob/main/images/github-mark-white.png" style="width: 24px; height: 24px;" width="24" height="24"/>
   </a>
 </p>

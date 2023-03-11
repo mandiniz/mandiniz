@@ -127,6 +127,25 @@
     </p>
 </details>
 
+<details>
+  <summary><b>:headphones: &nbsp;I also produce and make music:</b></summary>
+  <br/>
+  
+  <!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme.andyruwruw.com/api/top-played">
+</p>
+
+<p></p>
+</details>
+
 <hr/>
 
 <h1> <div align="center">👨‍💻 Repositories 👨‍💻</h1>

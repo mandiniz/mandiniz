@@ -152,7 +152,7 @@
 </details>
 
 <details>
-  <summary><b>:working_man: &nbsp;Repositories:</b></summary>
+  <summary><b>:computer: &nbsp;Repositories:</b></summary>
   <br/>
 
 <div>&nbsp;</div>

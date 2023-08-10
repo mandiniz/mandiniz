@@ -1,12 +1,3 @@
-<section> 
-  <figure>
-    <img align="left" height="155px" src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-2.gif"/>
-  </figure>
-  
-  <figure>
-    <img align="right" height="155px" src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-4.gif"/>
-  </figure>
-  
   <h1 align="center">Μλπdιπι Zλπςнεττλ</h1>
  
   <h3 align="center">

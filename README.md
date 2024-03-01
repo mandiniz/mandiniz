@@ -165,10 +165,6 @@
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-  
-<div align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</div>
 
   <br/>
 
